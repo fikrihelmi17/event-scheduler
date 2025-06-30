@@ -1,6 +1,6 @@
-# DevCoach Scheduler
+# Event Scheduler
 
-DevCoach Scheduler is a Google Apps Script project designed to seamlessly synchronize events between a Google Sheets spreadsheet and Google Calendar. This tool allows users to add, update, or delete calendar events directly from a spreadsheet, making event management more efficient and collaborative.
+Event Scheduler is a Google Apps Script project designed to seamlessly synchronize events between a Google Sheets spreadsheet and Google Calendar. This tool allows users to add, update, or delete calendar events directly from a spreadsheet, making event management more efficient and collaborative.
 
 ## Features
 
