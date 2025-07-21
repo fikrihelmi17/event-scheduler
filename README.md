@@ -44,6 +44,7 @@ Event Scheduler is a Google Apps Script project designed to seamlessly synchroni
      10. Event ID
      11. Start Time
      12. End Time
+   - Here’s the sample spreadsheet: https://docs.google.com/spreadsheets/d/1_8SaymsbrK59rSl_nPaHpctmXR9KBKe2oeBcjfRkqDM/edit?usp=sharing
 
 3. **Authorize the Script:**
    - On first run, grant the necessary permissions for Calendar and Sheets access.
